@@ -34,7 +34,5 @@ Input Image  -->  Output mask  -->  Output Image  -->  Ground truth Image
 
 ![Example_1](https://github.com/timy90022/WEGAN/result/191_3.jpg)
 
-<img src="result/191_3.jpg" width="700px"/>
+![Example_1](https://github.com/timy90022/WEGAN/result/191_31.jpg)
 
-![Real zebra](https://github.com/ai-tor/PyTorch-CycleGAN/raw/master/output/real_B.jpg)
-![Fake horse](https://github.com/ai-tor/PyTorch-CycleGAN/raw/master/output/fake_A.png)
