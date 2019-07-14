@@ -32,7 +32,7 @@ Examples of the generated outputs (default params, MSRA10K dataset):
 
 Input Image  -->  Output mask  -->  Output Image  -->  Ground truth Image
 
-![Example_1](https://github.com/timy90022/WEGAN/result/191_3.jpg)
+![Example_1](https://github.com/timy90022/WEGAN/blob/master/result/191_3.jpg)
 
-![Example_1](https://github.com/timy90022/WEGAN/result/191_31.jpg)
+![Example_1](https://github.com/timy90022/WEGAN/blob/master/result/191_31.jpg)
 
