@@ -94,3 +94,8 @@ img/
 datasets/
 checkpoint/
 
+# Useless
+.DS_Store
+._.DS_Store
+*.png
+.*

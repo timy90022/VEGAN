@@ -28,6 +28,8 @@ There are three types of visual effect to choose. (black-background, color-selec
 python train.py --visual_effect color-selectivo --cuda
 ```
 
+### 3. Result
+
 Examples of the generated outputs (default params, MSRA10K dataset):
 
 Input Image  -->  Output mask  -->  Output Image  -->  Ground truth Image
