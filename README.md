@@ -1,5 +1,5 @@
-# WEGAN: Unsupervised Meta-learning of Figure-Ground Segmentation via Imitating Visual Effects
-A clean and readable Pytorch implementation of WEGAN (https://arxiv.org/abs/1812.08442)
+# VEGAN: Unsupervised Meta-learning of Figure-Ground Segmentation via Imitating Visual Effects
+A clean and readable Pytorch implementation of VEGAN (https://arxiv.org/abs/1812.08442)
 
 ## Prerequisites
 Code is intended to work with ```Python 3.6.x```, it hasn't been tested with previous versions
@@ -34,7 +34,7 @@ Examples of the generated outputs (default params, MSRA10K dataset):
 
 Input Image  -->  Output mask  -->  Output Image  -->  Ground truth Image
 
-![Example_1](https://github.com/timy90022/WEGAN/blob/master/result/191_3.jpg)
+![Example_1](https://github.com/timy90022/VEGAN/blob/master/result/191_3.jpg)
 
-![Example_1](https://github.com/timy90022/WEGAN/blob/master/result/191_31.jpg)
+![Example_1](https://github.com/timy90022/VEGAN/blob/master/result/191_31.jpg)
 
